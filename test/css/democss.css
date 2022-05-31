@@ -1,0 +1,8 @@
+@charset "UTF-8";
+.grid {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+}
+.span-col-2{grid-column: span 1/ auto; border:1px solid red;height:760px}
+
+.span-col-6{grid-column: span 7 / auto; border:1px solid red;height:760px}
