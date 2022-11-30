@@ -1,0 +1,35 @@
+.mc-tools-left-tabs,.mc-tools-left-tabs>div{
+    height: 100%;
+    overflow: auto;
+}
+.mc-tools-left-tabs-titles{
+    height: 100%;
+    color: #ffffe6 ;
+    background-color:#24292e;
+    float: left;
+    width: 60px;
+    overflow: auto;
+    border-right: 1px solid #1f1f1f;
+}
+.mc-tools-left-tabs-titles li{
+    padding-top: 10px;
+    border-bottom: 1px solid #1f1f1f;
+    cursor: pointer;
+    text-align: center;
+}
+.mc-tools-left-tabs-titles li>i{
+    font-size: 30px;
+}
+.mc-tools-left-tabs-titles li>div{
+    margin-bottom: 10px;
+}
+.mc-tools-left-tabs-titles>li.active{
+    background-color: #191717;
+
+}
+.mc-tools-left-tabs-contents>div{
+    display: none;
+}
+.mc-tools-left-tabs-contents>div.active{
+    display: block;
+}
