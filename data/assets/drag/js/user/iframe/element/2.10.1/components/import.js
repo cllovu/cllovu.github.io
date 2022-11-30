@@ -13,7 +13,7 @@ __import([
         "https://cllovu.github.io/data/assets/drag/js/lib/echarts/5.0.2/echarts.min.js",
         "https://cllovu.github.io/data/assets/drag/js/lib/echarts/5.0.2/china.js",
         "https://cllovu.github.io/data/assets/drag/js/lib/echarts/5.0.2/ecstat.js",
-        "https://cllovu.github.io/data/assets/drag/js/lib/echarts/5.0.2/extension/datatool.min.js",
+        "https://cllovu.github.io/data/assets/drag/js/lib/echarts/5.0.2/extension/dataTool.min.js",
         "https://cllovu.github.io/data/assets/drag/js/lib/vue/vue.js",
         "https://cllovu.github.io/data/assets/drag/ui/element/2.10.1/element.js",
         "https://cllovu.github.io/data/assets/drag/js/lib/vue/axios.js",
